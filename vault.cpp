@@ -1,3 +1,4 @@
+//for full instruction and guidance see the readme file 
 #include <iostream>
 #include <fstream>
 #include <cstdio>
