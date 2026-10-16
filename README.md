@@ -44,7 +44,7 @@ Cyber-Vault-CPP/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/Cyber-Vault-CPP.git
+git clone https://github.com/Syedhadi00/Cyber-Vault-CPP.git
 ```
 
 ### 2. Open the Project Folder
